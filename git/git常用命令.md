@@ -24,3 +24,10 @@
   git branch
   ```
 
+* 删除本地分支
+
+  ```bash
+  git branch -d dev
+  ```
+
+  

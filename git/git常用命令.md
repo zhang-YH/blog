@@ -30,6 +30,11 @@
     git branch -r
     ```
 
+* 查看所有分支
+    ```bash
+    git branch -a
+    ```
+
 * 删除本地分支
 
     ```bash

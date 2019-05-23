@@ -41,6 +41,11 @@
     git branch -d dev
     ```
 
+* 删除远程分支
+    ```bash
+    git push origin --delete dev
+    ```
+
 ### 暂存与恢复
 
 * 将当前未提交的修改暂存起来
